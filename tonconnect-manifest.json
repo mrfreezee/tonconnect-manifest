@@ -1,5 +1,5 @@
 {
-  "manifest_url": "https://github.com/mrfreezee/tonconnect-manifest/blob/main/tonconnect-manifest.json",
+  "manifest_url": "https://mrfreezee.github.io/tonconnect-manifest/tonconnect-manifest.json",
   "name": "My TON App",
   "description": "Лучшее приложение для подключения к TON.",
   "icon_url": "https://mrfreezee.github.io/tonconnect-manifest/icon.png"
